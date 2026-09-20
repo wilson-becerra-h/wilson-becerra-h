@@ -2,9 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Wilson+Alexis+Becerra+Herrera;Data+Scientist+%26+Quantitative+Analyst;Especialista+en+Psicometr%C3%ADa+y+Estad%C3%ADstica" alt="Typing SVG" />
 </h1>
 
+
 <!-- BANNER DINÁMICO DE CONTRIBUCIONES (Reemplaza 'wilsonbecerra' por tu usuario exacto si no lo es) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contribution-graph?username=wilsonbecerra&theme=tokyonight&color=007ACC" alt="Banner de Contribuciones Cuantitativas" width="100%" />
+<img width="1983" height="793" alt="ChatGPT Image 20 sept 2026, 11_25_48" src="https://github.com/user-attachments/assets/c5820613-bb61-4420-b3eb-f001d1feae93" />
 </p>
 
 <p align="center">
@@ -14,6 +15,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/wilson-alexis-becerra-herrera-647b39354">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@WilsonBecerra123">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
@@ -29,14 +33,14 @@ Analista Cuantitativo enfocado en el **diseño, calibración y validación de mo
 
 - 🔬 **Psicometría Avanzada & Teoría de la Medición:**
   - **Teoría de Respuesta al Ítem (TRI):** Calibración de modelos unidimensionales/multidimensionales (1PL, 2PL, 3PL), análisis de funcionamiento diferencial del ítem (DIF) y equiparación de puntuaciones (*equating*).
-  - **Teoría Clásica de los Tests (TCT):** Estimación de consistencia interna ($\alpha$, $\omega$), análisis de fiabilidad, validez de criterio y baremación de escalas.
+  - **Teoría Clásica de los Tests (TCT):** Estimación de consistencia interna ($\alpha$, $\omega$), análisis de fiabilidad y baremación de escalas.
 
 - 📈 **Modelado Estadístico e Inferencia:**
   - **Análisis Factorial:** Exploratorio (EFA) y Confirmatorio (CFA) para validación de constructos latentes.
   - **Modelado Multivariado:** Modelos de Regresión (Lineal, Logística, Múltiple) y SEM.
 
 - 🗄️ **Gestión y Arquitectura de Datos:**
-  - Extracción, limpieza y estructuración de bases de datos masivas.
+  - Extracción, limpieza y estructuración de bases de datos.
   - Automatización de flujos de análisis psicométrico y visualización científica.
 
 ---
